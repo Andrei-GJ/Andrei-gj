@@ -4,8 +4,9 @@
 
 ![](https://images5.alphacoders.com/106/1066821.jpg)
 
-
-## about me 
+<div align="center">
+## about me
+<div>
 
 I am passionate about web development, especially backend. I'm
 always learning and improving my skills. I love to connect with people in the
