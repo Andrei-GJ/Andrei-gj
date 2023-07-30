@@ -31,9 +31,6 @@ excited for what the future holds for me as a developer.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Andrei-GJ&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Andrei-GJ&icon=6&color=10)](https://visitcount.itsvg.in)
 
