@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi This is my GitHub 😼</h2>
+  <h1 align="center">Hi This is my GitHub </h2>
 </div>
 
 ![](https://images5.alphacoders.com/106/1066821.jpg)
