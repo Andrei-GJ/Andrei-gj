@@ -13,3 +13,5 @@ always learning and improving my skills. I love to connect with people in the
 development world and collaborate together. Open to new opportunities and
 excited for what the future holds for me as a developer. 
 <div>
+
+![GitHub language count](https://img.shields.io/github/languages/count/Andrei-gj)
