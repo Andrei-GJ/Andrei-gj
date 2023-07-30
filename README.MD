@@ -1,5 +1,6 @@
 <div align="center">
-  <h1 align="center">hola soy andrei</h1>
+  <h1 align="center">Hello i am andrei </h1>
+  <h2 align="center">This is my GitHub</h2>
 </div>
 
 ![](https://images5.alphacoders.com/106/1066821.jpg)
