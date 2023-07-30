@@ -14,4 +14,4 @@ development world and collaborate together. Open to new opportunities and
 excited for what the future holds for me as a developer. 
 <div>
 
-![GitHub language count](https://img.shields.io/github/languages/count/Andrei-gj)
+![GitHub language count](https://img.shields.io/github/languages/count/Andrei-GJ)
