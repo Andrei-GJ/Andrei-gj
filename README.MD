@@ -8,10 +8,7 @@
   <h1 align="center">About me</h1>
 </div>
 <div justify-content: space-around;">
-I am passionate about web development, especially backend. I'm
-always learning and improving my skills. I love to connect with people in the
-development world and collaborate together. Open to new opportunities and
-excited for what the future holds for me as a developer. 
+I'm a web developer with hands-on experience building, debugging, and optimizing real-world applications, with a strong focus on backend development using PHP (Symfony) and SQL-based databases. I’m continuously improving my skills through self-driven learning and collaboration in technical environments. I'm particularly passionate about clean architecture, performance optimization, and scalable systems. I value well-written code, thoughtful problem-solving, and meaningful collaboration with fellow developers. Open to impactful opportunities where I can contribute and grow as a backend-focused engineer.
 <div>
 
 
