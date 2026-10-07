@@ -1,3 +1,5 @@
 theme: jekyll-theme-primer
 include:
   - README.md
+kramdown:
+  parse_block_html: true
